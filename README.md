@@ -11,11 +11,12 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 
 ---### 🛠️ **Tech Stack**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+
+- [![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -23,22 +24,6 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
-### 🛠️ **Tech Stack**
-
-<a href="https://www.python.org/" target="_blank"><i class="fab fa-python" style="font-size: 50px;"></i></a>
-<a href="https://www.javascript.com/" target="_blank"><i class="fab fa-js" style="font-size: 50px;"></i></a>
-<a href="https://reactjs.org/" target="_blank"><i class="fab fa-react" style="font-size: 50px;"></i></a>
-<a href="https://www.djangoproject.com/" target="_blank"><i class="fab fa-django" style="font-size: 50px;"></i></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><i class="fab fa-html5" style="font-size: 50px;"></i></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><i class="fab fa-css3-alt" style="font-size: 50px;"></i></a>
-<a href="https://git-scm.com/" target="_blank"><i class="fab fa-git" style="font-size: 50px;"></i></a>
-<a href="https://www.docker.com/" target="_blank"><i class="fab fa-docker" style="font-size: 50px;"></i></a>
-<a href="https://www.mysql.com/" target="_blank"><i class="fab fa-mysql" style="font-size: 50px;"></i></a>
-<a href="https://www.internet-of-things.eu/" target="_blank"><i class="fas fa-network-wired" style="font-size: 50px;"></i></a>
-<a href="https://code.visualstudio.com/" target="_blank"><i class="fab fa-visual-studio-code" style="font-size: 50px;"></i></a>
-<a href="https://www.figma.com/" target="_blank"><i class="fab fa-figma" style="font-size: 50px;"></i></a>
-<a href="https://vitejs.dev/" target="_blank"><i class="fab fa-vite" style="font-size: 50px;"></i></a>
 
 ### 📈 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ish-san&show_icons=true&theme=highcontrast)
