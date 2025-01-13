@@ -16,6 +16,9 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 
 ### 📘 LeetCode Profile
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/k-ish-san/)
+### 🏅 HackerRank Profile
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samrudhkishsanpm)
+
 
 
 
