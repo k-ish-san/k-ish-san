@@ -27,7 +27,8 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866)](https://www.hackerrank.com/samrudhkishsanpm)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/k-ish-san/)
-<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank" width="200"/>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/samrudhkishsanpm)
+
 
 ---
 
