@@ -1,11 +1,33 @@
-## Hi there 👋
+# 👋 Hi there! I'm Samrudh Kishsan P M
 
-👋 Hi, I'm Samrudh Kishsan P M!
-## 💻 Aspiring Web Developer with a passion for creating interactive and user-friendly web applications.
-🚀 Enthusiastic about React, Django, and Python development.
-🎓 Graduated in Electronics and Communications from Government College of Engineering Kannur.
-🔍 Exploring IoT and its integration with web technologies.
-🎨 I enjoy problem-solving, coding, reading, and painting in my free time.
+I'm an **Aspiring Web Developer** passionate about building interactive, user-friendly, and dynamic web applications.
 
-📫 Reach me at: samrudhkishsanpm@gmail.com
+---
 
+### 🛠️ **Tech Stack**
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Django, Python
+- **Other Skills**: Git, SQL, IoT, Problem-solving
+
+---
+
+### 📈 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamrudhKishsan&show_icons=true&theme=radical)
+
+---
+
+### 📌 **Featured Projects**
+- **[Project 1: Your Project Name](https://github.com/yourusername/project-repo)**
+  - Short description of the project.
+- **[Project 2: Another Project Name](https://github.com/yourusername/another-repo)**
+  - Short description of the project.
+
+---
+
+### 📬 **Connect With Me**
+- 📧 Email: [samrudhkishsanpm@gmail.com](mailto:samrudhkishsanpm@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+---
+
+Feel free to explore my repositories and connect!
