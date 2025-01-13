@@ -3,7 +3,7 @@
 
 I'm an **Aspiring Web Developer** passionate about building interactive, user-friendly, and dynamic web applications.
 
-<a href="https://app.daily.dev/samrudhkishsanpm"><img src="https://api.daily.dev/devcards/v2/dcrCY9nLXBGvBvyU9y6SU.png?type=wide&r=0xn" width="652" alt="Samrudh Kishsan P M's Dev Card"/></a>
+<a href="https://app.daily.dev/samrudhkishsanpm"><img src="https://api.daily.dev/devcards/v2/dcrCY9nLXBGvBvyU9y6SU.png?type=default&r=0xn" width="356" alt="Samrudh Kishsan P M's Dev Card"/></a>
 
 ---
 ### 🛠️ **Tech Stack**
