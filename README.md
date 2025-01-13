@@ -12,7 +12,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 ---
 
 ### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ish-san&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ish-san&show_icons=true&theme=highcontrast)
 
 ### 🏆 Competitive Programming Stats
 
