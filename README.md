@@ -12,7 +12,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 ---
 
 ### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamrudhKishsan&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ish-san&show_icons=true&theme=radical)
 
 ---
 
