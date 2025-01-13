@@ -13,12 +13,13 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 
 ### 📈 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ish-san&show_icons=true&theme=radical)
+### 🏆 Competitive Programming Stats
 
-### 📘 LeetCode Profile
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/k-ish-san/)
-### 🏅 HackerRank Profile
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samrudhkishsanpm)
+#### 📘 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Samrudh&theme=dark)
 
+#### 🏅 HackerRank Profile
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/your_hackerrank_username)
 
 
 
