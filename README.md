@@ -14,7 +14,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 ### 📈 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ish-san&show_icons=true&theme=radical)
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=k-ish-san&theme=dark)
+
 
 
 
