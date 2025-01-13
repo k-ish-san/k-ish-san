@@ -23,6 +23,21 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
+### 🛠️ **Tech Stack**
+
+<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" width="50" height="50"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" width="50" height="50"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML5" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/></a>
+<a href="https://www.internet-of-things.eu/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" alt="IoT" width="50" height="50"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/figma.png" alt="Figma" width="50" height="50"/></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/vite.png" alt="Vite" width="50" height="50"/></a>
 
 
 
