@@ -52,7 +52,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 
 ### 📬 **Connect With Me**
 - 📧 Email: [samrudhkishsanpm@gmail.com](mailto:samrudhkishsanpm@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/samrudh-k-ish-san-pm)
 
 ---
 
