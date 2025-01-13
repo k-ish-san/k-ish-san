@@ -16,7 +16,9 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 ### 🏆 Competitive Programming Stats
 
 #### 📘 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Samrudh&theme=dark)
+### 📘 LeetCode Profile
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/k-ish-san/)
+
 
 #### 🏅 HackerRank Profile
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/samrudhkishsanpm)
