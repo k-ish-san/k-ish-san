@@ -1,4 +1,3 @@
-
 # 👋 Hi there! I'm Samrudh Kishsan P M
 
 I'm an **Aspiring Web Developer** passionate about building interactive, user-friendly, and dynamic web applications.
