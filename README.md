@@ -47,10 +47,10 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 
 ---
 
-### 📌 **Featured Projects**
-- **[Project 1: Your Project Name](https://github.com/yourusername/project-repo)**
+### 📌 **Top Projects**
+- **[Project 1: 🛒 E-commerce MERN Stack Application](https://github.com/k-ish-san/E-commerce-MERN)**
   - Short description of the project.
-- **[Project 2: Another Project Name](https://github.com/yourusername/another-repo)**
+- **[Project 2: MoviesAPP MERN Stack](https://github.com/yourusername/another-repo)**
   - Short description of the project.
 
 ---
