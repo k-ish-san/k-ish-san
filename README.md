@@ -49,7 +49,11 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 
 ### 📌 **Top Projects**
 - **[Project 1: 🛒 E-commerce MERN Stack Application](https://github.com/k-ish-san/E-commerce-MERN)**
-  - Short description of the project.
+  - This is a fully functional e-commerce website built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+  - It features secure authentication, admin functionality, image uploads, payment processing, and a modern responsive UI.
+  - This project serves as a real-world, full-stack application — perfect for demonstrating development skills and deepening your understanding of modern web technologies.
+
+🚀 Live Demo: 👉 (https://mern-frontend-tau-two.vercel.app)
 - **[Project 2: MoviesAPP MERN Stack](https://github.com/yourusername/another-repo)**
   - Short description of the project.
 
