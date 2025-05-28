@@ -53,7 +53,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
   - It features secure authentication, admin functionality, image uploads, payment processing, and a modern responsive UI.
   - This project serves as a real-world, full-stack application — perfect for demonstrating development skills and deepening your understanding of modern web technologies.
 
-🚀 Live Demo: 👉 (https://mern-frontend-tau-two.vercel.app)
+🚀 Live Demo: 👉 https://mern-frontend-tau-two.vercel.app
 - **[Project 2: MoviesAPP MERN Stack](https://github.com/yourusername/another-repo)**
   - Short description of the project.
 
