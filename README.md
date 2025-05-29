@@ -45,9 +45,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 **AI Tools**
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
-<a href="https://windsurf.com/">
-  <img src="https://windsurf.com/logo/windsurf-white-wordmark.svg" alt="Windsurf" height="28"/>
-</a>
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ---
 
