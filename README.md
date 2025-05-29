@@ -39,7 +39,7 @@ I'm an **Aspiring Web Developer** passionate about building interactive, user-fr
 **AI Tools**
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
-[![Codeium](https://img.shields.io/badge/Codeium-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMzYgMzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiByeD0iMTgiIGZpbGw9IiM0RjQ2RTUiLz48L3N2Zz4=)](https://codeium.com/
+[![Codeium](https://img.shields.io/badge/Codeium-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMzYgMzYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiByeD0iMTgiIGZpbGw9IiM0RjQ2RTUiLz48L3N2Zz4=)]
 
 ---
 
